@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage MODIFICATION
+Application web pour covoiturage MODIFICATION de;merde casses les couilles ces handbaleurs mdr 
 
 
 ## Getting Started
@@ -55,7 +55,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
